@@ -1,24 +1,37 @@
-# Hany SCSS Utilities
+# Company Landing Page
 
-A lightweight and customizable SCSS utility library for fast and clean web development.  
-This library helps you quickly build layouts using pre-made utility classes for spacing, flexbox, typography, and more.
-
----
-
-## 📦 Features
-
-- ✅ Margin & Padding Utilities (e.g. `.m-1`, `.p-2`)
-- ✅ Flexbox Helpers (e.g. `.d-flex`, `.justify-center`)
-- ✅ Text Utilities (e.g. `.text-center`, `.fw-bold`)
-- ✅ Color Helpers (if added)
-- ✅ Easy to customize through SCSS variables
+A responsive and modern landing page for a company website built using **HTML5** and **Bootstrap 5**.  
+Designed to be clean, mobile-friendly, and easily customizable.
 
 ---
 
-## 🚀 How to Use
+## 🔍 Features
 
-1. Clone or download the repository.
-2. Import `main.scss` into your main SCSS file:
+- ✅ Fully responsive layout
+- ✅ Clean and modern design
+- ✅ Built with Bootstrap 5 classes
+- ✅ Sticky navbar
+- ✅ Hero section with call-to-action
+- ✅ Services / Features section
+- ✅ About us, contact form, and footer
 
-   ```scss
-   @import 'path-to/hany-scss-utils/main';
+---
+
+## 🚀 Live Preview
+
+[🔗 Click here to view the live demo](#)  
+*(Add your GitHub Pages or Netlify link here)*
+
+---
+
+## 🛠 Built With
+
+- HTML5
+- Bootstrap 5
+- Font Awesome (optional)
+- Google Fonts (optional)
+
+---
+
+## 📂 Folder Structure
+
