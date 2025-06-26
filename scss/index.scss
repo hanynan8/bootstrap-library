@@ -1,0 +1,17 @@
+// 1️⃣ تعريف الألوان بشكل عادي
+$primary: rgb(97, 97, 253); 
+$light: #fff8dd;
+
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
+
+$custom-colors: (
+  "spong-pop": yellow,
+  "baset": red,
+);
+
+$theme-colors: map-merge($custom-colors, $theme-colors );
+
+
+// 2️⃣ استيراد Bootstrap بعد تحديد القيم
+@import "../node_modules/bootstrap/scss/bootstrap.scss" 
