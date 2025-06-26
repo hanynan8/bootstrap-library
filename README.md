@@ -17,12 +17,6 @@ Designed to be clean, mobile-friendly, and easily customizable.
 
 ---
 
-## 🚀 Live Preview
-
-[🔗 Click here to view the live demo](#)  
-*(Add your GitHub Pages or Netlify link here)*
-
----
 
 ## 🛠 Built With
 
